@@ -18,11 +18,11 @@ and the data file
 <bayesfile.xlsx> 
 from
 
-https://github.com/pierorivoira/popgenetics/blob/main/R/plot.all.1.0
+https://github.com/privoira/popgenetics/blob/main/R/plot.all.1.0
 
 and
 
-https://github.com/pierorivoira/popgenetics/blob/main/data/bayesfile.xlsx 
+https://github.com/privoira/popgenetics/blob/main/data/bayesfile.xlsx 
 
 respectively
 
